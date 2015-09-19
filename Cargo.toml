@@ -13,4 +13,4 @@ r2d2_postgres = "*"
 plugin = "*"
 typemap = "*"
 openssl = "*"
-nickel = { git = "https://github.com/nickel-org/nickel.rs.git" }
+nickel = "0.7.0"
